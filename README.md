@@ -1,5 +1,4 @@
 # Tic-Tac-Game AI
-# Tic Tac Toe AI
 
 This repository contains an implementation of a Tic-Tac-Toe game with an AI using the Minimax algorithm. 
 The AI is capable of playing optimally, ensuring that it either wins or draws in every game.
